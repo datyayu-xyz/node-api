@@ -9,6 +9,8 @@
   "author": "Arturo Coronel <aoitsu3@gmail.com> (http://datyayu.xyz)",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.14.0"
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.4"
   }
 }
